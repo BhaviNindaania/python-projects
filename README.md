@@ -23,4 +23,4 @@ A collection of simple Python programs to practice programming basics.
 1. Install Python (>=3.8)  
 2. Clone this repository:
    ```bash
-   git clone https://github.com/<@NindaaniBhavi>/python-projects.git
+   git clone https://github.com/<@NindaaniaBhavi>/python-projects.git
